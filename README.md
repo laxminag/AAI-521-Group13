@@ -19,7 +19,7 @@ Manual waste sorting is labor-intensive, inconsistent, and often unsafe. Automat
 
 Goal: Develop a robust machine-learning system that predicts the material type of a waste item from a single RGB image.
 
-## 🗂️ Dataset: TrashNet
+## Dataset: TrashNet
 - Source: Stanford TrashNet project (mirrored on Kaggle)
 - ~2,500 images across six categories:
   - cardboard
